@@ -28,8 +28,8 @@
 
 ### 🧪 Testing
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JUnit5](https://a11ybadges.com/badge?logo=junit5)
-![Postman](https://a11ybadges.com/badge?logo=postman)
 ![Cucumber](https://a11ybadges.com/badge?logo=cucumber)
 
 ### 📊 Databases
@@ -50,7 +50,6 @@
 
 ### ℹ️ Other
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
