@@ -30,7 +30,7 @@
 ![Postman](https://a11ybadges.com/badge?logo=postman)
 ![Cucumber](https://a11ybadges.com/badge?logo=cucumber)
 
-### Databases
+### 📊 Databases
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
